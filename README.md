@@ -63,6 +63,7 @@ Some text to show that the reference links can follow later.
 # Imagenes
 Here's our logo (hover to see the title text):
 ![](https://github.com/IsaacRosasJ/beta/blob/master/img/0.2-Pantalla_de_inicio.png)
+<img src="https://github.com/IsaacRosasJ/beta/blob/master/img/0.2-Pantalla_de_inicio.png" alt="drawing" width="200"/>
 Inline-style: 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
